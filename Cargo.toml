@@ -1,0 +1,7 @@
+[package]
+name = "ipv4-cmp-bench"
+version = "0.1.0"
+authors = ["Alexander Polakov <apolyakov@beget.ru>"]
+
+[dependencies]
+rand = "0.3.14"
